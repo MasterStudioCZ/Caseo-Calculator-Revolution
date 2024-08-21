@@ -1,0 +1,11 @@
+{
+	"id" : "caseoCalculatorRevolution",
+	"name" : "Caseo Calculator Revolution",
+	"version" : "1.0.0",
+	"author" : "MasterStudioCZ <czmasterstudio@gmail.com>",
+	"description" : "A mod that adds several platforms based on Casio calculators.",
+	"main" : "./myScript.js",
+	"dependencies" : {
+		"gdt-modAPI":"0.1.x"
+	}
+}
